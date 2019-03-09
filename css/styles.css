@@ -15,6 +15,26 @@ body {
   margin-bottom: 50px;
 }
 
+form {
+  display: inline-block;
+  text-align: left;
+}
+
+textarea {
+    width: 500%;
+    max-width: 5000px;
+    height: 100px;
+}
+
+#suggest {
+  padding: 20px;
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .footer {
   position: fixed;
   bottom: 0px;
